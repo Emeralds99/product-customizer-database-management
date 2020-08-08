@@ -1,4 +1,8 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Stage 1 of Product Customizer
+
+## What has been completed:
+- Created Mongo database and successfully connected 
+- Created CRUD function and tested with Rest Client
 
 ## Available Scripts
 
